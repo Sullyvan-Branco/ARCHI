@@ -4,3 +4,9 @@ création d'un fichier
 git add .
 git commit -m "...."
 git push origin master
+
+recup un fichier en ligne
+
+create new file
+
+git pull origin master ou autre branch
