@@ -1,0 +1,6 @@
+git init
+git remote add origin https://...
+création d'un fichier
+git add .
+git commit -m "...."
+git push origin master
