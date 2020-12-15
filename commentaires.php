@@ -10,7 +10,7 @@
             <input type="submit" value="Envoyer" name="envoyer">
         </form>
         <?php
-        $lien=mysqli_connect("localhost","root","","tp");
+        $lien=mysqli_connect("localhost","root","root","tp");
 
         //Ajout d'un commentaire
         if(isset($_POST['envoyer']))
